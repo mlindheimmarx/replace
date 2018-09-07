@@ -1,0 +1,9 @@
+escape S-space
+bind d delete
+bind c exec alacritty
+bind h focusleft
+bind j focusdown
+bind k focusup
+bind l focusright
+bind g exec google-chrome-stable
+bind G exec google-chrome-stable --incognito
